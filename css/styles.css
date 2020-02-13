@@ -1,0 +1,148 @@
+/* Top menu styling */
+.header-section.style1.links-dark ul li a {
+    color: rgb(241, 65, 11);
+}
+
+.header-section.style1.links-dark ul li a:hover, .header-section.style1.links-dark ul li a.active {
+    color:rgba(241, 65, 11, 0.63);
+}
+
+.tp-caption.text-dark {
+    color: white;
+}
+
+.slider-but-1 {
+    color: #fff;
+    background: rgba(241, 65, 11, 0.63);
+    border-radius: 3px;
+    padding: 16px 36px;
+    text-align: center;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+  
+}
+
+
+.header-section img {
+    max-width: 100%;
+}
+
+.sec-padding {
+    margin-top: 30px;
+    padding: 0px 0 0px 0;
+    
+}
+
+
+
+.box-hover-text-1:hover {
+    background: rgba(241, 65, 11, 0.643);
+}
+
+
+.servicesbimg{
+    background-image: url(../images/2011.jpg);
+    background-size: cover;
+}
+.servicesbimg2{
+    background-image: url(../images/2009.jpg);
+    background-size: cover;
+    height: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 60px;
+  
+   
+}
+.serviceh1h6{
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1em;
+    font-family: futura-pt;
+}
+.sec-bgimg-3 {
+    background: url(../images/services.jpg) no-repeat center top;
+    background-size: cover;
+}
+
+.funfacts {
+    background: url(../images/women.jpg) no-repeat center top;
+    background-size: cover;
+}
+
+
+  .text-color {
+    color:white !important;
+    font-weight: 700;
+}
+.funh6 {
+    color:white !important;
+}
+.text-colorattr{
+   color: rgba(241, 65, 11, 0.643);
+   /* font-size: 15px; */
+   /* font-weight: 800; */
+}
+
+.title-line-3 {
+    background-color:  rgba(241, 65, 11, 0.643);
+    height: 2px;
+    margin: 0 auto 10px;
+    width: 80px;
+}
+
+.sec-tpadding-2 {
+    padding-top: 15px;
+}
+
+.footer-logo-img {
+    /* margin-bottom: 20px; */
+    width:70%;
+}
+
+.footer-bg-1 {
+    background: #8E8E8E;
+    background-size: cover;
+
+    color: white;
+}
+/* .img-responsive-2 {
+    max-width: 100%;
+    height: 65px;
+} */
+
+.text-box-ser{
+    height: 271px;
+}
+
+.aboutus h2{
+    color: white;
+    font-family:  sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.1em;
+    margin-bottom: 20px;
+    font-size: 79px;
+}
+
+.aboutimgmission{
+    background-image: url(../images/2011.jpg);
+    background-size: cover;
+}
+
+.aboutimgvalues{
+    background-image: url(../images/value.jpg);
+    background-size: cover;
+}
+
+.seperator{
+    height: 3px;
+    margin: 0 auto 0px;
+    width: 100%;
+}
+
+.contactbimg{
+    background-image: url(../images/2010.jpg);
+    background-size: cover;
+}
